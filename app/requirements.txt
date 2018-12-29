@@ -21,6 +21,7 @@ idna==2.8
 multidict==4.5.2
 photon-pump==0.6.0
 protobuf==3.6.1
+pyaml==18.11.0
 pycares==2.3.0
 pyyaml==3.13
 requests==2.21.0
