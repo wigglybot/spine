@@ -89,7 +89,7 @@ def create_response(event):
     if response.status_code == 200:
         return build_text(response.json())
     else:
-        return "Sorry, I couldn't find an orgainisation for %s" % event_data['args'][0]
+        return "Sorry, I couldn't find an organisation for %s" % event_data['args'][0]
 
 
 @run_in_executor
