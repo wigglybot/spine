@@ -10,17 +10,5 @@
 # `Pipfile.lock` and then regenerate `requirements*.txt`.
 ################################################################################
 
-atomicwrites==1.2.1
-attrs==18.2.0
-certifi==2018.11.29
-colorama==0.4.1
-more-itertools==5.0.0
-pbr==5.1.1
-pipenv-to-requirements==0.6.1
-pipenv==2018.11.26
-pluggy==0.8.0
-py==1.7.0
-pytest==4.0.2
-six==1.12.0
-virtualenv-clone==0.4.0
-virtualenv==16.1.0
+pipenv-to-requirements
+pytest
