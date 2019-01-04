@@ -7,7 +7,7 @@ name = "pypi"
 configobj = "*"
 photon-pump = "*"
 requests = "*"
-pyaml = "*"
+pyyaml = "*"
 
 [dev-packages]
 pytest = "*"
