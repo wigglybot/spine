@@ -1,4 +1,4 @@
-from app.component.settings import \
+from settings import \
     log, \
     EVENT_STORE_URL, \
     EVENT_STORE_HTTP_PORT, \
