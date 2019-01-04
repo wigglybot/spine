@@ -11,7 +11,7 @@ import json
 import functools
 import uuid
 import requests
-import pyyaml
+import pyaml
 
 
 def run_in_executor(f):
