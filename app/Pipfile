@@ -8,6 +8,7 @@ configobj = "*"
 photon-pump = "*"
 requests = "*"
 pyyaml = "*"
+pyaml = "*"
 
 [dev-packages]
 pytest = "*"
